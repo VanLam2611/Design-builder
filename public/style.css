@@ -276,7 +276,9 @@ body{
 }
 
 @media screen and (max-width:320.98px) {
-
+    .post__builder-univercity .section__header .group__owner-info .info__right .info__content p{
+        padding: 15px 10px;
+    }
 }
 
 .post__builder-univercity .wrapper__section .card__img{
