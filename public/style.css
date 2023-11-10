@@ -259,7 +259,7 @@ body{
     .post__builder-univercity .section__header .group__owner-info .info__right .info__content p{
         padding: 15px 0;
         font-size: 20px;
-        text-align: justify;
+        text-align: left;
     }
 
     .post__builder-univercity .section__content{
@@ -322,6 +322,7 @@ body{
 
 .post__builder-univercity .section__content .main__content p .text-botle{
     color: #F26E21;
+    font-style: italic;
 }
 
 @media screen and (max-width:1024.98px) {
